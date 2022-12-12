@@ -1,0 +1,13 @@
+C:\Users\AghalarovM\source\repos\TodoApp.Data\bin\Debug\netcoreapp3.1\TodoApp.DAL.deps.json
+C:\Users\AghalarovM\source\repos\TodoApp.Data\bin\Debug\netcoreapp3.1\TodoApp.DAL.runtimeconfig.json
+C:\Users\AghalarovM\source\repos\TodoApp.Data\bin\Debug\netcoreapp3.1\TodoApp.DAL.runtimeconfig.dev.json
+C:\Users\AghalarovM\source\repos\TodoApp.Data\bin\Debug\netcoreapp3.1\TodoApp.DAL.dll
+C:\Users\AghalarovM\source\repos\TodoApp.Data\bin\Debug\netcoreapp3.1\TodoApp.DAL.pdb
+C:\Users\AghalarovM\source\repos\TodoApp.Data\obj\Debug\netcoreapp3.1\TodoApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AghalarovM\source\repos\TodoApp.Data\obj\Debug\netcoreapp3.1\TodoApp.DAL.AssemblyInfoInputs.cache
+C:\Users\AghalarovM\source\repos\TodoApp.Data\obj\Debug\netcoreapp3.1\TodoApp.DAL.AssemblyInfo.cs
+C:\Users\AghalarovM\source\repos\TodoApp.Data\obj\Debug\netcoreapp3.1\TodoApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\AghalarovM\source\repos\TodoApp.Data\obj\Debug\netcoreapp3.1\TodoApp.DAL.dll
+C:\Users\AghalarovM\source\repos\TodoApp.Data\obj\Debug\netcoreapp3.1\TodoApp.DAL.pdb
+C:\Users\AghalarovM\source\repos\TodoApp.Data\obj\Debug\netcoreapp3.1\TodoApp.DAL.genruntimeconfig.cache
+C:\Users\AghalarovM\source\repos\TodoApp.Data\obj\Debug\netcoreapp3.1\TodoApp.DAL.csproj.AssemblyReference.cache
