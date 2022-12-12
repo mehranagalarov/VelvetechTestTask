@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp.BL", "C:\Users\Agha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp.Common", "C:\Users\AghalarovM\source\repos\TodoApp.Common\TodoApp.Common.csproj", "{974CA37F-E43B-4B88-815C-B19B9463EAEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp.Tests", "C:\Users\AghalarovM\source\repos\TodoApp.Tests\TodoApp.Tests.csproj", "{63A5605E-005A-469E-B5E4-D5FDE28C350A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{974CA37F-E43B-4B88-815C-B19B9463EAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{974CA37F-E43B-4B88-815C-B19B9463EAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{974CA37F-E43B-4B88-815C-B19B9463EAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A5605E-005A-469E-B5E4-D5FDE28C350A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A5605E-005A-469E-B5E4-D5FDE28C350A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A5605E-005A-469E-B5E4-D5FDE28C350A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A5605E-005A-469E-B5E4-D5FDE28C350A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
